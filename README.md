@@ -1,4 +1,4 @@
-# Realm of the Mourning Star – קובץ README
+# Realm of the Mourning Star
 
 ## תקציר המשחק
 
