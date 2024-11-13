@@ -8,6 +8,8 @@
 - **שם**: עבד אל כרים מסארוה
 - **תעודת זהות**: `319071379`
 - [**📄 קישור ל-formal-elements.md**](https://github.com/MassarwaGames/realm-of-the-mourning-star/blob/main/formal-elements.md)
+- [**📄 קישור ל-formal-elements_EN.md**](https://github.com/MassarwaGames/realm-of-the-mourning-star/blob/main/formal-elements_EN.md)
+
 
 ---
 
