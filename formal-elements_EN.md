@@ -6,6 +6,8 @@
 **Tagline**: *Uncover a lost legacy, and decide the fate of a realm shrouded in darkness.*
 
 ---
+![realm of the mourning star image](./realm_of_the_mourning_star_image.webp)
+
 
 ## 🎮 Game Concept
 *Realm of the Mourning Star* is a dark fantasy adventure where players step into the role of a prince, the last survivor of his royal family, who was betrayed and left for dead. Revived with no memory, he embarks on a journey through a shadowed world to discover the truth of his family’s fate. Along the way, the prince will face moral choices that shape his destiny and the realm’s future, forcing him to decide between redemption or ruling with darkness.
