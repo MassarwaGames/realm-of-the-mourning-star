@@ -13,7 +13,4 @@
 
 ---
 
-🌌 **הצטרפו למסע אפל וגורלי!**
-**Credits**:  
-- **Nemezes**: Angry Man player asset  
-- **Brian MacIntosh**: Wooden door asset  
+🌌 **הצטרפו למסע אפל וגורלי!
